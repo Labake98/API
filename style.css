@@ -1,0 +1,177 @@
+body{
+    background-color: brown;
+    padding: 20%
+
+
+}
+
+.button  :hover{
+    background-color: peachpuff;
+
+}
+
+/*.button{
+    color: blue;
+    font-weight: bold;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin-right: 20px;
+
+
+}*/
+
+
+
+#one{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin-right: 20px;
+
+
+}
+
+#two{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin-right: 20px;
+
+}
+
+#three{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin-right: 20px;
+
+}
+
+#four{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin-right: 20px;
+
+}
+
+#five{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin-right: 20px;
+
+}
+
+#six{
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin-right: 20px;
+
+}
+
+.posts-card{
+    display: inline-block;
+    font-style: oblique;
+}
+
+.posts-card ul{
+    background: navajowhite;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: black 2px 3px 4px;
+    list-style-type: none;
+
+}
+
+.comments-card{
+    display: inline-block;
+    font-style: oblique;
+}
+
+.comments-card ul{
+    background: navajowhite;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: black 2px 3px 4px;
+    list-style-type: none;
+
+
+}
+
+.albums-card{
+    display: inline-block;
+    font-style: oblique;
+}
+
+.albums-card ul{
+    background: navajowhite;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: black 2px 3px 4px;
+    list-style-type: none;
+    width: 350px;
+}
+
+.photos-card{
+    display: inline-block;
+    font-style: oblique;
+}
+
+.photos-card ul{
+    background: navajowhite;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: black 2px 3px 4px;
+    list-style-type: none;
+
+
+}
+
+.todos-card{
+    display: inline-block;
+    font-style: oblique;
+}
+
+.todos-card ul{
+    background: navajowhite;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: black 2px 3px 4px;
+    list-style-type: none;
+    width: 350px;
+}
+
+.card{
+    display: inline-block;
+    font-style: oblique;
+}
+
+.card ul{
+    background: navajowhite;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: black 2px 3px 4px;
+    list-style-type: none;
+    width: 350px ;
+}
